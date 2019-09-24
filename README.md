@@ -1,0 +1,1 @@
+thingsoard-dht11
